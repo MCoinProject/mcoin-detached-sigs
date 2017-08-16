@@ -1,1 +1,1 @@
-# litecoin-detached-sigs
+# Mcoin-detached-sigs
